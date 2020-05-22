@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e365765-5755-416d-bd84-76698f07c73d" name="Default Changelist" comment="" />
+    <list default="true" id="3e365765-5755-416d-bd84-76698f07c73d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CountX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bifmFgo49F8MczsGIEAXUVc6tX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +37,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.TowerOfHanoi">
     <configuration name="Count7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -88,6 +102,7 @@
       <workItem from="1589119998636" duration="5106000" />
       <workItem from="1589126924746" duration="7000" />
       <workItem from="1589127031238" duration="354000" />
+      <workItem from="1590173205745" duration="45000" />
     </task>
     <servers />
   </component>
